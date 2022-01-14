@@ -28,5 +28,8 @@ filings
 #following this guide:
 #https://community.rstudio.com/t/scraping-multiple-web-pages-with-rvest-and-for-loop/89661/2
 
+### learn how to incorporate "polite" best practices? youtube video?
+### https://cran.r-project.org/web/packages/polite/polite.pdf
+
 txt1 <- pdf_text("data/328630")
 
